@@ -11,7 +11,7 @@ body{
     background-attachment: fixed;
     font-family: 'Courier New', Courier, monospace;
     font-size: xx-large;
-    color: blanchedalmond;
+    color: rgba(255, 255, 252, 0.918);
     }
 button{
     font-family: sans-serif;
@@ -54,7 +54,14 @@ fieldset{
     margin-right: 300px;
     padding-left: 2em;
     }
-
+    fieldset2{
+        display: block;
+        margin-left: 300px;
+        margin-right: 300px;
+        padding-left: 2em;
+        background-color: rgb(207, 192, 216);
+        background-attachment: 50%;
+        }
 
 .Menu {
     position: fixed;
